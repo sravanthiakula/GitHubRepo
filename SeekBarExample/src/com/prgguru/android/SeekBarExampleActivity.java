@@ -6,7 +6,7 @@ import android.media.AudioManager;
 import android.os.Bundle;
 import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
-
+safsdhgjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkh
 public class SeekBarExampleActivity extends Activity {
 	private SeekBar mediaVlmSeekBar = null;
 
